@@ -1,20 +1,9 @@
 $color-primary: #58a3de;
-$color-secondary: #f8c562;
 
 $color-darkest: #000000;
 $color-darker: #2c2c2c;
 $color-lighter: #f2f2f2;
 $color-lightest: #ffffff;
-
-body {
-  font-size: 14px;
-  font-family: Arial, sans-serif;
-  line-height: 1.2em;
-  font-weight: 400;
-  color: $color-primary;
-  min-height: 100vh;
-  min-width: 320px;
-}
 
 img {
   max-width: 100%;
@@ -36,31 +25,4 @@ a {
 .container {
   max-width: 850px;
   margin: 0 auto;
-}
-
-.site-title {
-  font-size: 18px;
-  font-weight: 700;
-  color: $color-primary;
-  text-transform: uppercase;
-  position: relative;
-
-  &:after {
-    display: block;
-    width: 182px;
-    height: 1px;
-    background-color: $color-secondary;
-    position: absolute;
-    left: 50%;
-    bottom: 10px;
-    transform: translateX(-50%);
-  }
-}
-
-.assistive-title {
-  position: absolute !important;
-  left: 0;
-  top: 0;
-  clip: rect(1px 1px 1px 1px);
-  clip: rect(1px, 1px, 1px, 1px);
 }

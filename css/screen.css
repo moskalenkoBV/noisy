@@ -40,15 +40,6 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-body {
-  font-size: 14px;
-  font-family: Arial, sans-serif;
-  line-height: 1.2em;
-  font-weight: 400;
-  color: #58a3de;
-  min-height: 100vh;
-  min-width: 320px; }
-
 img {
   max-width: 100%;
   height: auto;
@@ -63,29 +54,6 @@ a {
 .container {
   max-width: 850px;
   margin: 0 auto; }
-
-.site-title {
-  font-size: 18px;
-  font-weight: 700;
-  color: #58a3de;
-  text-transform: uppercase;
-  position: relative; }
-  .site-title:after {
-    display: block;
-    width: 182px;
-    height: 1px;
-    background-color: #f8c562;
-    position: absolute;
-    left: 50%;
-    bottom: 10px;
-    transform: translateX(-50%); }
-
-.assistive-title {
-  position: absolute !important;
-  left: 0;
-  top: 0;
-  clip: rect(1px 1px 1px 1px);
-  clip: rect(1px, 1px, 1px, 1px); }
 
 .preview {
   font-size: 16px;
@@ -141,12 +109,5 @@ a {
     line-height: 1.2em;
     color: #ffffff;
     text-decoration: none; }
-
-.main-slider .main-slider__item-link {
-  display: block;
-  height: 340px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center; }
 
 /*# sourceMappingURL=screen.css.map */
