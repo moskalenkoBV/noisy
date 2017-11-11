@@ -1,0 +1,28 @@
+$color-primary: #58a3de;
+
+$color-darkest: #000000;
+$color-darker: #2c2c2c;
+$color-lighter: #f2f2f2;
+$color-lightest: #ffffff;
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration: none;
+  }
+}
+
+.container {
+  max-width: 850px;
+  margin: 0 auto;
+}

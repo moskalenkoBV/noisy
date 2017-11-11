@@ -1,0 +1,19 @@
+@charset "UTF-8";
+@import "bourbon";
+
+@import "partials/reset";
+
+@import "partials/fonts";
+@import "partials/sprites";
+
+// Main styles.
+@import "partials/mixins";
+
+@import "partials/base";
+@import "partials/preview";
+
+@import "partials/header";
+
+@import "partials/blocks";
+
+@import "partials/footer";

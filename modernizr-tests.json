@@ -1,0 +1,9 @@
+{
+  "tests": [
+    "touchevents",
+    "cssanimations",
+    "csstransitions",
+    "csstransforms",
+    "csstransforms3d"
+  ]
+}
