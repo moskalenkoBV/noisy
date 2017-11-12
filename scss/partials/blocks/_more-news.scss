@@ -1,0 +1,16 @@
+.more-news {
+  text-align: center;
+
+  .more-news__button {
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+    min-width: 248px;
+    padding: 13px 16px 11px;
+    border-radius: 10px;
+    color: $color-secondary;
+    background-color: $color-primary;
+    border: 2px solid $color-darkest;
+  }
+}

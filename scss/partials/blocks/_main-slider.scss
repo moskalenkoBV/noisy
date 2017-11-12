@@ -1,8 +1,17 @@
 .main-slider {
+  position: relative;
+  overflow: hidden;
+
+  .main-slider__item {
+    position: relative;
+  }
+
   .main-slider__item-link {
     display: block;
-    height: 340px;
+    height: calc(100vh - 114px);
+    margin-bottom: 114px;
     background-size: cover;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
   }

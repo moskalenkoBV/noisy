@@ -1,0 +1,18 @@
+.partners {
+  background-color: $color-light;
+  padding: 15px 0;
+
+  .partners__item {
+    height: 85px;
+  }
+
+  .partners__link {
+    display: block;
+    position: relative;
+
+    img {
+      height: 100%;
+      width: auto;
+    }
+  }
+}
