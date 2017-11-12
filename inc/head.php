@@ -8,6 +8,7 @@
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
 <!-- Theme specific styles -->
+<link type="text/css" rel="stylesheet" media="all" href="css/owl.carousel.css?v=<?php echo mt_rand(1, 9999999) ?>">
 <link type="text/css" rel="stylesheet" media="all" href="css/screen.css?v=<?php echo mt_rand(1, 9999999) ?>">
 <!-- Theme specific styles -->
 
@@ -20,10 +21,13 @@
 <!-- Third party libraries -->
 <script src="js/svgxuse.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
 <script src="js/modernizr.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
+<script src="js/owl.carousel.min.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
 <!-- Third party libraries -->
 
 <!-- Scripts -->
-
+<!-- <script src="js/main-slider.js?v=<?php echo mt_rand(1, 9999999) ?>"></script> -->
+<script src="js/partners.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
+<script src="js/header.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
 <!-- Scripts -->
 
 <?php
