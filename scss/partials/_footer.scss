@@ -65,23 +65,3 @@
     }
   }
 }
-
-.titleFooter {
-  font-weight: 900;
-  text-align: center;
-  padding: 10px;
-}
-
-.firstPart{
-  width: 300px;
-  height: 310px;
-  float: left;
-  flex-direction:column;
-  justify-content:space-between;
-  align-content: space-around;
-}
-
-.secondPart {
-  float: right;
-  width: 300px;
-}
