@@ -335,3 +335,38 @@ header {
       width: auto; }
 
 /*# sourceMappingURL=screen.css.map */
+
+footer {
+  background: #58a3de;
+  height: 350px;
+  color: white;
+  font-family: "Arial";
+  padding: 20px;
+  display: block;
+}
+
+.titleFooter {
+  font-weight: 900;
+  text-align: center;
+  padding: 10px;
+}
+
+#map {
+  width: 500px;
+  height: 310px;
+  float: left;
+}
+
+.firstPart{
+  width: 300px;
+  height: 310px;
+  float: left;
+  flex-direction:column;
+  justify-content:space-between;
+  align-content: space-around;
+}
+
+.secondPart {
+  float: right;
+  width: 300px;
+}
