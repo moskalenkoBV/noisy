@@ -28,6 +28,7 @@
 <!-- <script src="js/main-slider.js?v=<?php echo mt_rand(1, 9999999) ?>"></script> -->
 <script src="js/partners.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
 <script src="js/header.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
+<script src="js/map.js?v=<?php echo mt_rand(1, 9999999) ?>"></script>
 <!-- Scripts -->
 
 <?php
