@@ -52,7 +52,7 @@
     </div>
     <div class="preview__footer">
       <div class="container">
-        <p>Moskalenko team. With <span class="text-danger">&#10084;</span>.</p>
+        <p>Moskalenko team! With <span class="text-danger">&#10084;</span>.</p>
       </div>
     </div>
   </div>
