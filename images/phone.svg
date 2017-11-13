@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="48px" viewBox="0 0 32 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>if_Streamline-09_185028</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="if_Streamline-09_185028" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M27,48 L5,48 C2.243,48 0,45.757 0,43 L0,5 C0,2.243 2.243,0 5,0 L27,0 C29.757,0 32,2.243 32,5 L32,43 C32,45.757 29.757,48 27,48 Z M5,2 C3.346,2 2,3.346 2,5 L2,43 C2,44.654 3.346,46 5,46 L27,46 C28.654,46 30,44.654 30,43 L30,5 C30,3.346 28.654,2 27,2 L5,2 Z" id="Shape"></path>
+            <path d="M31,10 L1,10 C0.447,10 0,9.552 0,9 C0,8.448 0.447,8 1,8 L31,8 C31.553,8 32,8.448 32,9 C32,9.552 31.553,10 31,10 Z" id="Shape"></path>
+            <path d="M31,40 L1,40 C0.447,40 0,39.552 0,39 C0,38.448 0.447,38 1,38 L31,38 C31.553,38 32,38.448 32,39 C32,39.552 31.553,40 31,40 Z" id="Shape"></path>
+            <path d="M14,43 C14,44.104 14.896,45 16,45 C17.104,45 18,44.104 18,43 C18,41.896 17.104,41 16,41 C14.896,41 14,41.896 14,43 Z" id="Shape"></path>
+            <path d="M21,6 L11,6 C10.447,6 10,5.552 10,5 C10,4.448 10.447,4 11,4 L21,4 C21.553,4 22,4.448 22,5 C22,5.552 21.553,6 21,6 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

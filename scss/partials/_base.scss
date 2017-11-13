@@ -65,6 +65,14 @@ a {
     bottom: -8px;
     transform: translateX(-50%);
   }
+
+  &.site-title--footer {
+    color: $color-lightest;
+
+    &:after {
+      display: none;
+    }
+  }
 }
 
 .assistive-title {
