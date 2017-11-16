@@ -1,0 +1,65 @@
+.breadcrumb-container {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: $color-primary;
+}
+
+.breadcrumb-menu {
+  max-width: 850px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.breadcrumb-menu, .page-breadcrumb {
+  padding: 20px 0;
+}
+
+.page-title{
+  color: $color-lightest;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
+
+.page-breadcrumb{
+  color: $color-lightest;
+  font-size: 12px;
+  font-weight: 400;
+  font-family: Arial, sans-serif;
+}
+
+.bureau-people {
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+text-align: center;
+}
+
+.people-photo {
+  float: left;
+  margin: 20px;
+}
+
+.people-photo img {
+  max-height: 200px;
+}
+
+.people-position {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: Arial, sans-serif;
+  color: $color-darkest
+}
+
+.people-name {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, sans-serif;
+  color: $color-primary;
+}
