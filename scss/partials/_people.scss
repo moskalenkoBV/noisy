@@ -1,0 +1,29 @@
+.bureau-people {
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+
+.people-photo {
+  float: left;
+  margin: 0 20px 30px 20px;
+}
+
+.people-photo img {
+  max-height: 200px;
+  margin-bottom: 10px;
+}
+
+.people-position {
+  font-size: 14px;
+  font-weight: 400;
+  color: $color-darkest
+}
+
+.people-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: $color-primary;
+}

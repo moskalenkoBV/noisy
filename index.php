@@ -25,8 +25,8 @@
       "img" => "homepage.jpg"
     ],
     [
-      "title" => "Homepage",
-      "link" => "homepage.php",
+      "title" => "Page",
+      "link" => "page.php",
       "img" => "homepage.jpg"
     ],
   ];

@@ -1,0 +1,32 @@
+.breadcrumb-container {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: $color-primary;
+}
+
+.breadcrumb-menu {
+  max-width: 850px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.breadcrumb-menu, .page-breadcrumb {
+  padding: 20px 0;
+}
+
+.page-title {
+  color: $color-lightest;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.page-breadcrumb {
+  color: $color-lightest;
+  font-size: 14px;
+  font-weight: 400;
+}

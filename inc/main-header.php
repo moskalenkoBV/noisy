@@ -1,5 +1,5 @@
 <header>
-  <?php include "inc/blocks/main-slider.php" ?>
+  <?php  include "inc/blocks/main-slider.php" ?>
   <div class="main-header">
     <div class="container">
       <div class="navigation">

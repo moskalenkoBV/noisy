@@ -3,10 +3,14 @@
     [
       "title" => "Homepage",
       "link" => "homepage.php",
-      "image" => "main-slider1.jpg"
+      "image" => "main-slider2.jpg"
     ]
   ];
-  $tmp_url = "inc/blocks/main-slider__item.php";
+
+$basename = substr(strtolower(basename($_SERVER['PHP_SELF'])),0,strlen(basename($_SERVER['PHP_SELF']))-4);
+
+if ($basename == 'homepage') $tmp_url = "inc/blocks/main-slider__item.php";
+
 ?>
 <section>
   <h2 class="assistive-title">Slider</h2>
