@@ -295,14 +295,12 @@ header {
 .page-title {
   color: #ffffff;
   font-size: 18px;
-  font-weight: bold;
-  font-family: Arial, sans-serif; }
+  font-weight: 600; }
 
 .page-breadcrumb {
   color: #ffffff;
-  font-size: 12px;
-  font-weight: 400;
-  font-family: Arial, sans-serif; }
+  font-size: 14px;
+  font-weight: 400; }
 
 .bureau-people {
   height: auto;
@@ -313,21 +311,20 @@ header {
 
 .people-photo {
   float: left;
-  margin: 20px; }
+  margin: 0 20px 30px 20px; }
 
 .people-photo img {
-  max-height: 200px; }
+  max-height: 200px;
+  margin-bottom: 10px; }
 
 .people-position {
   font-size: 14px;
   font-weight: 400;
-  font-family: Arial, sans-serif;
   color: #000000; }
 
 .people-name {
   font-size: 16px;
   font-weight: 600;
-  font-family: Arial, sans-serif;
   color: #58a3de; }
 
 .main-slider {
